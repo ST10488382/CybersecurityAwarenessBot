@@ -12,8 +12,8 @@ namespace CybersecurityAwarenessBot
             //the constructor will play audio and show ascii art
             new Display();
 
-            //creating an instance for the greet_voice class
-            //class with a constructor
+            //creating an instance for the greet_voice class and class with a constuctor
+            
             
 
 
