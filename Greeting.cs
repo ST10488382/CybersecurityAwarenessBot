@@ -10,7 +10,7 @@ namespace CybersecurityAwarenessBot
         public string username = string.Empty;
 
         public void getname()
-        {//start of method
+        {//start of method , scurity verification
 
             Console.WriteLine("\n--- security verification ---");
             Console.Write("Enter your name: ");
