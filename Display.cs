@@ -32,7 +32,7 @@ namespace CybersecurityAwarenessBot
         }//end of constructor
 
         public void playaudio(string path)
-        {//start of method
+        {//start of method that has try and catch method
             try
             {
                 //creating a new instance of the SoundPlayer class
