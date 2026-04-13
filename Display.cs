@@ -8,7 +8,7 @@ namespace CybersecurityAwarenessBot
     public class Display
     {//start of class
 
-        //get the base directory path
+        //get the base directory path and creating log
         string path_logo = AppDomain.CurrentDomain.BaseDirectory;
 
         public Display()

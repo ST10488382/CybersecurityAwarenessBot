@@ -4,7 +4,7 @@ using System.Threading;
 namespace CybersecurityAwarenessBot
 {//start of namespace
     public class Chatbot
-    {//start of namespace class 
+    {//start of class 
 
         //global variable to store the username
         private string username;
