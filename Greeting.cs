@@ -17,9 +17,11 @@ namespace CybersecurityAwarenessBot
             username = Console.ReadLine();
 
             //loop to keep asking until a valid name is entered
+            //start of while loop and if statement
             while (true)
             {
                 //check if the name is empty
+                
                 if (string.IsNullOrWhiteSpace(username))
                 {
                     Console.WriteLine("This field cannot be empty. Please enter a name.");
